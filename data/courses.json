@@ -1,0 +1,474 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 180,
+      "title": "Basic C Programming",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        "img": "https://scontent.fdac33-1.fna.fbcdn.net/v/t39.30808-6/280298314_3134986600097403_1219406199708955104_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=a46Dp7RKPxIAX9Woo69&_nc_ht=scontent.fdac33-1.fna&oh=00_AT9wwjtxgjwDd1cKJbdNLsMof4FA8OJjiK-x0QsiBuv7kQ&oe=635DF883"
+      },
+      "image_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/5338/course_5338_image.jpg",
+      "details": "C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.It is a very popular language, despite being old.C is strongly associated with UNIX, as it was developed to write the UNIX operating system."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11cf436e",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 3.5, "badge": "Excellent" },
+      "total_view": 228,
+      "title": "Basic C++ Programming",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://www.simplilearn.com/ice9/webinar_thum_image/CPP_Tutorial.jpg",
+      "details": "What is C++ programming used for? C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c32dr5",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.7, "badge": "Excellent" },
+      "total_view": 520,
+      "title": "Basic JAVA Programming",
+      "price":"500",
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png",
+      "details": "Developers use Java to construct applications in laptops, data centres, game consoles, scientific supercomputers, cell phones, and other devices. Java is the world's third most popular programming language"
+    },
+
+    {
+      "_id": "0282e0e58a5c404fbd15261f11cmju54",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 48,
+      "title": "Basic Python",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
+      "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c70iut",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 188,
+      "title": "DJANGO",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+     
+      "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210907183436/Why-Django-Framework-is-Best-For-Web-Development.png",
+      "details": "Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11ctru09",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 41,
+      "title": "Basic PHP",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://www.netsolutions.com/insights/wp-content/uploads/2021/01/What-is-PHP.jpg",
+      "details": "PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces (GUIs).."
+    },
+
+   
+    {
+      "_id": "f69a695f037cd9484cecaea37ca675rf",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "HTML",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+      "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca6tyd",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "CSS",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://cdn-icons-png.flaticon.com/512/919/919826.png",
+      "details": "CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca0iq21",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Bootstrap",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://avatars.githubusercontent.com/u/2918581?s=280&v=4",
+      "details": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs."
+    },
+
+
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "JavaScript",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+     
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+      "details": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user"
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "React",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+     
+      "image_url": "https://reactjs.org/logo-og.png",
+      "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "React-Bootstrap",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+     
+      "image_url": "https://avatars.githubusercontent.com/u/6853419?s=200&v=4",
+      "details": "React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery. As one of the oldest React libraries, React-Bootstrap has evolved and grown alongside React, making it an excellent choice as your UI foundation."
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7326e",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Tailwindcss",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+     
+      "image_url": "data:image/png;base64,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",
+      "details": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables"
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a5t4r7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Firebase",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://www.gstatic.com/devrel-devsite/prod/v329b39deca73fc0f4b4862903640085cfb4d3102e48d211dd97ad63f3860a376/firebase/images/touchicon-180.png",
+      "details": "Firebase is great for quick projects: it's easy to set up, fast, in many cases requires only front-end logic. It lets you focus on your app instead of implementing custom authentication, web sockets or database connections.."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c10uy5",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "Node js Express",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://miro.medium.com/max/1400/1*HkM78Z1G5UKqQNCHwBHRfA.png",
+      "details": "It is used for designing and building web applications quickly and easily. Web applications are web apps that you can run on a web browser. Since Express. js only requires javascript, it becomes easier for programmers and developers to build web applications and API without any effort."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80cyi809",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "MongoDB",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+     
+      "image_url": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
+      "details": "MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies."
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Machine Learning",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960",
+      "details": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy"
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Artificial Intelligence",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+    
+      "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
+      "details": "In the simplest terms, AI which stands for artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "Deep Learning",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+   
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJ5Q9C5MDVvQoH7xujKQGMttSzNf9VVhJkzZRnaux0nvc5nyf_dugp6Vj3NIDKutaCyg&usqp=CAU",
+      "details": "Deep learning is a machine learning technique that teaches computers to do what comes naturally to humans: learn by example. Deep learning is a key technology behind driverless cars, enabling them to recognize a stop sign, or to distinguish a pedestrian from a lamppost."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c6xce",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "Data Science",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg",
+      "details": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data, and apply knowledge from data across a broad range of application domains."
+    },
+
+
+
+
+   
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 300,
+      "title": "Firebase",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+     
+      "image_url": "https://miro.medium.com/max/1000/1*JbDo7U0l62vYMfm1WxnA1g.png",
+      "details": "The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client."
+    },
+
+
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "06",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_view": 310,
+      "title": "Netlify",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/netlify-logo.png?fit=1200%2C600&ssl=1",
+      "details": "Netlify is the platform developers love for building highly-performant and dynamic websites, e-commerce stores and web applications. By uniting an extensive ecosystem of technologies, services and APIs into one workflow, Netlify unlocks new levels of team productivity, while saving time and money."
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aare31",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "06",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_view": 34,
+      "title": "GitHub",
+      "price":500,
+      "author": {
+        "name": "Md.Rizwanul Wahid",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+     
+      "image_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "details": "GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests"
+    }
+   
+
+  ]

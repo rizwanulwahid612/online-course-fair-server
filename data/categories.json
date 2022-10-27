@@ -1,0 +1,43 @@
+[
+    {
+      "id": "01",
+      "name": "Basic programming language",
+      "title":"C,C++,JAVA",
+      "img": "https://code.rohitink.com/wp-content/uploads/2013/06/1301825696_183475245_1-Pictures-of-C-Java-for-10th-11th-12th-student-of-all-syllabus.jpg"
+    },
+    {
+      "id": "02",
+      "name": "Junior level web development",
+      "title":"HTML,CSS,BOOTSTRAP",
+      "img":"https://miro.medium.com/max/680/1*Wxsd6vzQxe6WPidUNJXgwA.jpeg"
+
+    },
+    {
+      "id": "03",
+      "name": "Web development with Django",
+      "title":"PYTHON,DJANGO,PHP",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROuDgfeF5-2Y4g_aSbQq9XnSQjK1ftfTwMSg&usqp=CAU"
+      
+    },
+    {
+      "id": "04",
+      "name": "Web development with React",
+      "title":"JAVA_SCRIPT,TAILWIND_CSS,REACT,REACT_BOOTSTRAP,FIREBASE,EXPRESS,MONGODB",
+      "img":"https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/231435222/original/b22dc92a7f772f9bea7a59dd836d201f0ee4ae1a/develop-web-app-using-reactjs-firebase-tailwind-nodejs-and-more.jpg"
+       
+    },
+    {
+      "id": "05",
+      "name": "Advance learning and Technology",
+      "title":"MACHINE LEARNING,ARTIFICIAL INTELLIEGENCE,DEEP LEARNING,DATA SCIENCE",
+      "img":"https://www.vinsys.com/blog/wp-content/uploads/2020/04/A-Compleate-Understanding-of-DS-AI-ML-DL.jpg"
+    },
+    {
+      "id": "06",
+      "name": "deploying projects and backend",
+      "title":"FIREBASE,NETLIFY,GITHUB",
+      "img":"https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/175221251/original/b10e39f5dae5d2c28c6cc91fcd2573630734f004/do-website-hosting-in-github-firebase-heroku-and-netlify.png"
+     
+    }
+   
+  ]
